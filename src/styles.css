@@ -20,7 +20,7 @@ header {
     border-bottom-right-radius: 24px;
     border-bottom-left-radius: 24px;
     box-shadow: 0 1px 1px darkgray;
-    background: rgba(250, 250, 250, 0.7);
+    background: rgba(250, 250, 250, 0.9);
     font-size: 20px;
     font-weight: normal;
     position: sticky;
@@ -96,7 +96,7 @@ main {
     border-radius: 8px;
     padding: 8px 0;
     font-size: 22px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 #hero-profesores-btn {
@@ -138,6 +138,10 @@ footer {
 
 .logo-img {
     height: 52px;
+}
+
+.icons {
+    height: 16px;
 }
 
 #copyright {
@@ -204,6 +208,10 @@ footer {
 
 .footer-inner-sides {
     margin: 0 20px;
+}
+
+.info-bottom-margin {
+    margin-bottom: 4px;
 }
 
 .weight-bold {
